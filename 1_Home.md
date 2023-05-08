@@ -7,3 +7,4 @@ The features we will be building out:
 - Transaction History for last mints.
 - User friendly UI elements to keep the user involved about each step of the transaction.
 
+Before proceeding with this course, familiarity with solidity, ethers library and react is recommended.
